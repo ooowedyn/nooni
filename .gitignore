@@ -1,0 +1,34 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# ESP32 / PlatformIO
+.pio/
